@@ -4,14 +4,11 @@
     padding: 1px;
     box-sizing: border-box;
   }
-  body {
-
-  
-    background: rgb(57, 108, 138);
-  }
+ 
   body {
     font-family: 'Open Sans', sans-serif;
-    background-image: url("https://png.pngtree.com/thumb_back/fw800/back_our/20190621/ourmid/pngtree-my-resume-background-material-image_177383.jpg");
+    background-image: url("https://www.wallpapertip.com/wmimgs/83-833937_web-page-background-painted-using-the-gimp-note.jpg");
+    background-repeat: repeat-y;
   }
 
   h2 {
@@ -28,3 +25,4 @@
     padding: 20px;
     background-color: rgb(102, 179, 209);
 }
+
