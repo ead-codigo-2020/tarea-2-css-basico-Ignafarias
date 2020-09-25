@@ -9,12 +9,20 @@
   
     background: rgb(57, 108, 138);
   }
-  
+  body {
+    font-family: 'Open Sans', sans-serif;
+  }
 
   h2 {
     width: 100%;
     margin-bottom: 40px;
+    border: 1px solid #fff;
+    padding: 20px;
+    background-color: rgb(68, 148, 214);
+  }
+  h1 {
+    width: 100%;
+    margin-bottom: 40px;
     border: 3px solid #fff;
     padding: 20px;
-    background-color: aqua;
-  }
+    background-color: rgb(102, 179, 209);
